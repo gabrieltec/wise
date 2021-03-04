@@ -17,6 +17,7 @@
 - clonar projeto
 - instalar dependencias com npm ou yarn, ex: npm install
 - utilizar avd da sua preferencia com api 28+
+- tudo ok, startar script, ex: npm run android
 
 ## app
 
